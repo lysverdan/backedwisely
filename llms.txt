@@ -4,7 +4,6 @@
 
 ## About
 - [Home](https://backedwisely.com/): Backed Wisely Inc. — independent tools for decisions backed by real data.
-- [Privacy Policy](https://backedwisely.com/privacy.html): What the site collects (almost nothing — privacy-friendly, cookieless analytics only) and how to get in touch.
 
 ## Flagship Product
 - [Yes Car No Car](https://yescarnocar.com/): Scan a VIN and get a plain verdict — Good Car or Bad Car — backed by verified vehicle history, real repair costs, and documented failure patterns. Independent, with no dealer conflicts of interest. Yes Car No Car is a product of Backed Wisely Inc.
